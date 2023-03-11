@@ -1,5 +1,7 @@
 .mia1{
     width: 9%;
+    min-width: 120px;
+    min-height: 50px;
 }
 
 .font1{
